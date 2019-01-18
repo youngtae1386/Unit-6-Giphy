@@ -1,0 +1,38 @@
+body {
+	background: linear-gradient(rgba(9, 14, 0, 0.5), rgba(94, -63, 77, 73.5)), url(../images/stars.gif);
+	background-size: cover;
+	font-family: 'Noto Sans', KR;
+	color: white;
+	margin-bottom: 900px;
+	
+}
+
+
+
+.btn {
+	margin: 10px;
+	opacity: .8;
+	background-color:red;
+	border-color: blue;
+}
+
+
+label {
+	color: red;
+	font-size: 25px;
+	margin-right: 10px;
+}
+
+p {
+	color: red;
+	font-size: 16px;
+}
+
+
+div1 {
+	display: inline-block;
+	margin: 10px;
+}
+h1{
+font-size: 8.5rem;
+text-shadow: -1px 0 black, 0 1px black, 1px 0 black, 0 -1px black;
